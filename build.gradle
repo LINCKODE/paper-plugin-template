@@ -3,7 +3,7 @@ plugins {
 
     //Paperweight userdev - Access to Mojang mapped Minecraft classes
     //Documentation: https://docs.papermc.io/paper/dev/userdev
-    id("io.papermc.paperweight.userdev") version "1.6.3"
+    id("io.papermc.paperweight.userdev") version "1.7.0"
 
     //Minecrell plugin-yml - Automated generation of plugin.yml
     //Documentation: https://github.com/Minecrell/plugin-yml
